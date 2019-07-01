@@ -10,6 +10,6 @@ Coding: reldred; the belligerent formerly known as Aegir
 
 Art: Cornelius, Born Acorn, original TTD assets by Simon Foster.
 
-License: CC-BY-SA-ND
+License: CC-BY-NC-ND
 
 Why the license? I'm not comfortable GPL'ing work from artists that have left the community who I cannot get in touch with. Likewise, I cannot GPL something with assets derived from the base game. Do you want to make a derivative work? Give me a shout.

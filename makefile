@@ -11,9 +11,9 @@
 
 # Macros:
 # Paths for our tools
-GRFCODEC = ../../Executables/grfcodec.exe -e
-NFORENUM = ../../Executables/nforenum.exe -b +
-GRFDIR = ../../../../../DMZ/Software/Games/OpenTTD\ Nightly/newgrf/
+GRFCODEC = grfcodec
+NFORENUM = nforenum -b +
+GRFDIR = ../../../../../REHI-GREEN/Software/Games/JGR\ Patchpack/newgrf/
 
 # GCC Settings:
 CC = gcc
